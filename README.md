@@ -21,17 +21,18 @@ about 40 others.
 
 I've been working on Darklang since late 2016. I'm taking a hiatus to work on Tech For Palestine. You can follow that work in various places:
 
-[Darklang blog](https://blog.darklang.com),
-[changelog](https://docs.darklang.com/changelog),
-[Discord](https://darklang.com/discord-invite), and [mailing
-list](https://darklang.com/mailing-list)
+- [Darklang blog](https://blog.darklang.com),
+- [changelog](https://docs.darklang.com/changelog),
+- [Discord](https://darklang.com/discord-invite), and [mailing
+- list](https://darklang.com/mailing-list)
 
 # Socials
 
-Github ([me](https://github.com/pbiggar), [Darklang](https://github.com/darklang/dark), [Tech For Palestine](https://github.com/techforpalestine))
-Mastodon ([me](), [Darklang]())
-Twitch ([me](), [Darklang]())
-Twitter ([me](), [Darklang](), [Tech for Palestine]())
+- Github ([me](https://github.com/pbiggar), [Darklang](https://github.com/darklang/dark), [Tech For Palestine](https://github.com/techforpalestine))
+- Mastodon ([me](https://hachyderm.io/@paulbiggar), [Darklang](https://devtools.social/@darklang))
+- Twitch ([me](https://www.twitch.tv/paulbiggar), [Darklang](https://www.twitch.tv/actuallydarklang))
+- Twitter ([me](https://twitter.com/paulbiggar), [Darklang](https://twitter.com/darklang), [Tech for Palestine](https://twitter.com/tech4palestine))
+
 # Past self
 
 I previously was founder and CEO of [CircleCI](https://circleci.com). I wrote a
