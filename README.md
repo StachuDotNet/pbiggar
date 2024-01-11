@@ -1,5 +1,6 @@
-### Hi there 👋
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
+### Hi there 👋
 
 Software engineer and devtools founder -- founded [Tech For
 Palestine](https://techforpalestine.org), [CircleCI](https://circleci.com) and
