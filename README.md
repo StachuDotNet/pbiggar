@@ -24,8 +24,8 @@ I've been working on Darklang since late 2016. I'm taking a hiatus to work on Te
 
 - [Darklang blog](https://blog.darklang.com),
 - [changelog](https://docs.darklang.com/changelog),
-- [Discord](https://darklang.com/discord-invite), and [mailing
-- list](https://darklang.com/mailing-list)
+- [Discord](https://darklang.com/discord-invite), and
+- [mailing list](https://darklang.com/mailing-list)
 
 # Socials
 
