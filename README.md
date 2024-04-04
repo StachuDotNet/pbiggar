@@ -38,7 +38,7 @@ I've been working on Darklang since late 2016. I'm taking a hiatus to work on Te
 
 I previously was founder and CEO of [CircleCI](https://circleci.com). I wrote a
 bunch of early stuff on the CircleCI blog, including [this
-piece](https://circleci.com/blog/its-the-future/#:~:text=It%E2%80%99s%20the%20future%202015%2D06%2D09)
+piece](https://medium.com/circleci/its-the-future-90d0e5361b44)
 that I'm extremely proud of.
 
 I also did a PhD in Compilers and Static Analysis, and [my research papers](https://paulbiggar.com/research) are online (also includes some research on sorting algorithms)
