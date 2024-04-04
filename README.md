@@ -30,7 +30,7 @@ I've been working on Darklang since late 2016. I'm taking a hiatus to work on Te
 # Socials
 
 - Github ([me](https://github.com/pbiggar), [Darklang](https://github.com/darklang/dark), [Tech For Palestine](https://github.com/techforpalestine))
-- Mastodon ([me](https://hachyderm.io/@paulbiggar), [Darklang](https://devtools.social/@darklang))
+- Mastodon ([me](https://hachyderm.io/@paulbiggar), [Darklang](https://mas.to/@darklang))
 - Twitch ([me](https://www.twitch.tv/paulbiggar), [Darklang](https://www.twitch.tv/actuallydarklang))
 - Twitter ([me](https://twitter.com/paulbiggar), [Darklang](https://twitter.com/darklang), [Tech for Palestine](https://twitter.com/tech4palestine))
 
